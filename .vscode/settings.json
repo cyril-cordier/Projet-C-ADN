@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "Principal.C": "cpp",
+        "DEFINITION.C": "cpp",
+        "CHAINE_ALEATOIRE.C": "cpp",
+        "TRANSCRIPTION.C": "cpp",
+        "TRADUCTION.C": "cpp"
+    }
+}
